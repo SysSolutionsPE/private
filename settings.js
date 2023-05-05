@@ -4,12 +4,13 @@ const  { indonesia, english, spanyol} = require(`./language`)
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://api.zeeoneofc.my.id/' 
+
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey
+	'https://api.zeeoneofc.my.id/': 'gg8nSP3T',  // 👉 login https://api.zeeoneofc.my.id/docs to get apikey
 }
 
 // setting 
@@ -22,29 +23,30 @@ global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia  //change indonesia to english if you don't understand the language used by the bot
+global.language = spanyol  //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
-global.botname = "𝐙𝐗𝐜𝐨𝐝𝐞𝐫𝐢𝐃-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ 𝐈𝐜𝐡𝐚𝐧𝐙𝐗 ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6282334018401'] //premium user
-global.owner = ["6282334018401","6282139833381"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6282334018401" // nomor wa kalian
-global.ownernomerr = "+6282334018401" //nmr wa kalian
+global.botname = "𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤" //namabot kalian
+global.ownername= "𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤" //nama kalian
+global.myweb ="https://www.syssolutions.tk" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@syssolutionsperu" //bebas asal jan hapus
+global.myweb2 = "https://linktr.ee/SysSolutions" //bebas
+global.email = "SysSolutions.Peru@outlook.com" //bebas
+global.region = "Peru" //bebas
+global.timezone = 'America/Lima' //  timezone wib
+global.premium = ['51945463812'] //premium user
+global.owner = ["51945463812", "51966099729"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "51945463812" // nomor wa kalian
+global.ownernomerr = "+51945463812" 
+"
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© 𝐙𝐗𝐜𝐨𝐝𝐞𝐫𝐢𝐃' //sticker wm ubah
-global.author = 'Di Buat Oleh 𝐈𝐜𝐡𝐚𝐧𝐙𝐗' //sticker wm ganti nama kalian
+global.packname = '© 𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤' //sticker wm ubah
+global.author = '𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
